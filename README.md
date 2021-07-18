@@ -1,4 +1,4 @@
-# server cheat sheet
+# maxim's server cheat sheet
 
 ## nginx
 
